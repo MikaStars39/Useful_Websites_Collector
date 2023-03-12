@@ -17,6 +17,8 @@ C语言运算符优先级--超级详细大全: https://zhuanlan.zhihu.com/p/3965
 
 CMake 入门实战: https://www.hahack.com/codes/cmake/
 
+良心Clion教程up主: https://space.bilibili.com/37737161
+
 ## Python
 
 A Byte of Python: https://python.swaroopch.com
