@@ -37,7 +37,7 @@ mdn: [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 
 Linux 环境搭建(如何获得一个免费云服务器)以及Linux基本指令: [Linux 环境搭建(如何获得一个免费云服务器)以及Linux基本指令_免费linux服务器_Josvin的博客-CSDN博客](https://blog.csdn.net/weixin_45532227/article/details/107597778)
 
-## SYS
+## SYSTEM
 
 详解计算机中的字、字节（Byte）、比特（bit）及它们之间的关系: https://zhuanlan.zhihu.com/p/422907374
 
