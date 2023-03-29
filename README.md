@@ -3,6 +3,42 @@
 This is an open collector of useful tutorials and other websites <br>
 这是一个公开的md文档，收集有意思和有用的教程 <br>
 
+## Machine Learning
+
+Pytorch官方文档 📖 PyTorch documentation https://pytorch.org/docs/stable/index.html
+
+[中英字幕]吴恩达机器学习系列课程_哔哩哔哩_bilibili https://www.bilibili.com/video/BV164411b7dx/
+
+(强推|双字)2022吴恩达机器学习Deeplearning.ai课程_哔哩哔哩_bilibili  https://www.bilibili.com/video/BV1Pa411X76s/?vd_source=43f8c3731b7d35924989fa2835a2315f
+
+《PyTorch深度学习实践》完结合集_哔哩哔哩_bilibili 刘二大人 https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.337.search-card.all.click
+
+PyTorch 深度学习实践_错错莫的博客-CSDN博客 这个是⬆️刘二大人的课程代码 https://blog.csdn.net/bit452/category_10569531.html
+
+https://www.bilibili.com/video/BV1Y7411d7Ys?p=1&vd_source=43f8c3731b7d35924989fa2835a2315f
+
+https://github.com/apachecn/ailearning/blob/master/docs/ml/2.md实践性AI学习项目
+
+https://scikit-learn.org/stable/ scikit
+
+GitHub - mbadry1/Top-Deep-Learning: https://github.com/mbadry1/Top-Deep-Learning
+
+## NLP
+
+西湖大学 张岳老师｜自然语言处理在线课程 https://www.bilibili.com/video/BV1r3411q74d/
+
+Stanford CS224n 【中英字幕】吹爆！最全斯坦福CS224n《深度学习自然语言处理》课程 https://www.bilibili.com/video/BV1ct4y157Uf/
+
+## Math
+
+【熟肉】线性代数的本质 - 06 - 逆矩阵、列空间与零空间_哔哩哔哩_bilibili https://www.bilibili.com/video/BV1ns411r7dE/?vd_source=43f8c3731b7d35924989fa2835a2315f
+
+麻省理工学院 - MIT - 线性代数（我愿称之为线性代数教程天花板）_哔哩哔哩_bilibili https://www.bilibili.com/video/BV16Z4y1U7oU/?vd_source=43f8c3731b7d35924989fa2835a2315f
+
+布布的高数教室：偏导数_哔哩哔哩_bilibili https://www.bilibili.com/video/BV1PG4y187ST/?spm_id_from=333.337.search-card.all.click&vd_source=43f8c3731b7d35924989fa2835a2315f
+
+http://faculty.bicmr.pku.edu.cn/~wenzw/bigdata/matrix-cook-book.pdf matrix cookbook
+
 ## C Language/CXX
 
 C语言笔记---printf格式化输出: [C语言笔记---printf格式化输出_qin_rui_hua的博客-CSDN博客](https://blog.csdn.net/qin_rui_hua/article/details/77894812)
@@ -26,6 +62,8 @@ A Byte of Python: https://python.swaroopch.com
 Python Documentation: https://www.python.org/doc/
 
 Python列表中remove()方法，您真的会用吗？: [Python列表中remove()方法，您真的会用吗？_python remove用法_何极光的博客-CSDN博客](https://blog.csdn.net/qq_44034384/article/details/107348512)
+
+https://github.com/jackfrued/Python-100-Days
 
 ## Java
 
