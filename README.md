@@ -7,6 +7,8 @@ This is an open collector of useful tutorials and other websites <br>
 
 Pytorch官方文档 📖 PyTorch documentation https://pytorch.org/docs/stable/index.html
 
+Kaggle https://www.kaggle.com
+
 [中英字幕]吴恩达机器学习系列课程_哔哩哔哩_bilibili https://www.bilibili.com/video/BV164411b7dx/
 
 (强推|双字)2022吴恩达机器学习Deeplearning.ai课程_哔哩哔哩_bilibili  https://www.bilibili.com/video/BV1Pa411X76s/?vd_source=43f8c3731b7d35924989fa2835a2315f
@@ -17,7 +19,7 @@ PyTorch 深度学习实践_错错莫的博客-CSDN博客 这个是⬆️刘二�
 
 https://www.bilibili.com/video/BV1Y7411d7Ys?p=1&vd_source=43f8c3731b7d35924989fa2835a2315f
 
-https://github.com/apachecn/ailearning/blob/master/docs/ml/2.md实践性AI学习项目
+https://github.com/apachecn/ailearning/blob/master/docs/ml/2.md 实践性AI学习项目
 
 https://scikit-learn.org/stable/ scikit
 
