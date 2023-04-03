@@ -25,6 +25,8 @@ https://scikit-learn.org/stable/ scikit
 
 GitHub - mbadry1/Top-Deep-Learning: https://github.com/mbadry1/Top-Deep-Learning
 
+SVM神仙教程 https://blog.csdn.net/v_july_v/article/details/7624837
+
 ## NLP
 
 西湖大学 张岳老师｜自然语言处理在线课程 https://www.bilibili.com/video/BV1r3411q74d/
