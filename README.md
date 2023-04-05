@@ -19,19 +19,23 @@ PyTorch 深度学习实践_错错莫的博客-CSDN博客 这个是⬆️刘二�
 
 https://www.bilibili.com/video/BV1Y7411d7Ys?p=1&vd_source=43f8c3731b7d35924989fa2835a2315f
 
-https://github.com/apachecn/ailearning/blob/master/docs/ml/2.md 实践性AI学习项目
+实践性AI学习项目 https://github.com/apachecn/ailearning/blob/master/docs/ml/2.md 
 
-https://scikit-learn.org/stable/ scikit
+scikit https://scikit-learn.org/stable/
 
 GitHub - mbadry1/Top-Deep-Learning: https://github.com/mbadry1/Top-Deep-Learning
 
 SVM神仙教程 https://blog.csdn.net/v_july_v/article/details/7624837
+
+支持向量机通俗导论（理解SVM的三层境界）https://blog.csdn.net/v_july_v/article/details/7624837
 
 ## NLP
 
 西湖大学 张岳老师｜自然语言处理在线课程 https://www.bilibili.com/video/BV1r3411q74d/
 
 Stanford CS224n 【中英字幕】吹爆！最全斯坦福CS224n《深度学习自然语言处理》课程 https://www.bilibili.com/video/BV1ct4y157Uf/
+
+NLP面试中常考到的知识点和代码实现 https://github.com/NLP-LOVE/ML-NLP
 
 ## Math
 
@@ -59,6 +63,8 @@ CMake 入门实战: https://www.hahack.com/codes/cmake/
 
 良心Clion教程up主: https://space.bilibili.com/37737161
 
+C语言内存分配及各种数据存储位置 https://blog.csdn.net/wzsalan/article/details/79594968
+
 ## Python
 
 A Byte of Python: https://python.swaroopch.com
@@ -80,6 +86,10 @@ mdn: [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 ## Linux
 
 Linux 环境搭建(如何获得一个免费云服务器)以及Linux基本指令: [Linux 环境搭建(如何获得一个免费云服务器)以及Linux基本指令_免费linux服务器_Josvin的博客-CSDN博客](https://blog.csdn.net/weixin_45532227/article/details/107597778)
+
+## Git
+
+Git教程(快速上手，超详细) https://blog.csdn.net/weixin_48152652/article/details/124258293
 
 ## SYSTEM
 
