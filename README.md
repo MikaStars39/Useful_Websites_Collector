@@ -3,6 +3,10 @@
 This is an open collector of useful tutorials and other websites <br>
 这是一个公开的md文档，收集有意思和有用的教程 <br>
 
+## Tools
+
+Colab https://colab.research.google.com
+
 ## Machine Learning
 
 Pytorch官方文档 📖 PyTorch documentation https://pytorch.org/docs/stable/index.html
@@ -36,6 +40,10 @@ SVM神仙教程 https://blog.csdn.net/v_july_v/article/details/7624837
 Stanford CS224n 【中英字幕】吹爆！最全斯坦福CS224n《深度学习自然语言处理》课程 https://www.bilibili.com/video/BV1ct4y157Uf/
 
 NLP面试中常考到的知识点和代码实现 https://github.com/NLP-LOVE/ML-NLP
+
+word2vec 中的数学原理详解 https://blog.csdn.net/itplus/article/details/37969519
+
+FDU-NLP https://github.com/FudanNLP/nlp-beginner
 
 ## Math
 
