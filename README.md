@@ -43,6 +43,8 @@ NLP面试中常考到的知识点和代码实现 https://github.com/NLP-LOVE/ML-
 
 word2vec 中的数学原理详解 https://blog.csdn.net/itplus/article/details/37969519
 
+Basics of Using Pre-trained GloVe Vectors in Python https://medium.com/analytics-vidhya/basics-of-using-pre-trained-glove-vectors-in-python-d38905f356db
+
 FDU-NLP https://github.com/FudanNLP/nlp-beginner
 
 ## Math
