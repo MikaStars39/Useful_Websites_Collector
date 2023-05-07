@@ -33,6 +33,24 @@ SVM神仙教程 https://blog.csdn.net/v_july_v/article/details/7624837
 
 支持向量机通俗导论（理解SVM的三层境界）https://blog.csdn.net/v_july_v/article/details/7624837
 
+pooling层一些被遗忘的特性 https://www.codenong.com/cs105278106/
+
+深度学习上手指南 https://github.com/nndl/nndl.github.io/blob/master/md/DeepGuide.md
+
+从“卷积”、到“图像卷积操作”、再到“卷积神经网络”，“卷积”意义的3次改变 https://www.bilibili.com/video/BV1VV411478E/?from=search&seid=1725700777641154181&vd_source=43f8c3731b7d35924989fa2835a2315f
+
+Whats the difference between nn.relu() vs F.relu() https://discuss.pytorch.org/t/whats-the-difference-between-nn-relu-vs-f-relu/27599
+
+PyTorch 中文手册（pytorch handbook）https://handbook.pytorch.wiki/chapter1/3_neural_networks_tutorial.html
+
+Change the image size and range https://stackoverflow.com/questions/58606442/change-the-image-size-and-range
+
+Illustrated Guide to Transformers Neural Network: A step by step explanation https://www.youtube.com/watch?v=4Bdc55j80l8
+
+Pytorch Transformers from Scratch (Attention is all you need) https://www.youtube.com/watch?v=U0s0f995w14
+
+机器学习中的baseline https://blog.csdn.net/weixin_46163097/article/details/123933649
+
 ## NLP
 
 西湖大学 张岳老师｜自然语言处理在线课程 https://www.bilibili.com/video/BV1r3411q74d/
@@ -47,6 +65,16 @@ Basics of Using Pre-trained GloVe Vectors in Python https://medium.com/analytics
 
 FDU-NLP https://github.com/FudanNLP/nlp-beginner
 
+NLP Course | For You https://lena-voita.github.io/nlp_course.html
+
+GloVe详解 永远的热河路 https://www.fanyeong.com/2018/02/19/glove-in-detail/
+
+NLP Course Chinese https://mlnlp-world.github.io/NLP-Course-Chinese/index.html
+
+SuperGLUE https://super.gluebenchmark.com
+
+A Survey of Large Language Models https://arxiv.org/pdf/2303.18223.pdf
+
 ## Math
 
 【熟肉】线性代数的本质 - 06 - 逆矩阵、列空间与零空间_哔哩哔哩_bilibili https://www.bilibili.com/video/BV1ns411r7dE/?vd_source=43f8c3731b7d35924989fa2835a2315f
@@ -55,7 +83,7 @@ FDU-NLP https://github.com/FudanNLP/nlp-beginner
 
 布布的高数教室：偏导数_哔哩哔哩_bilibili https://www.bilibili.com/video/BV1PG4y187ST/?spm_id_from=333.337.search-card.all.click&vd_source=43f8c3731b7d35924989fa2835a2315f
 
-http://faculty.bicmr.pku.edu.cn/~wenzw/bigdata/matrix-cook-book.pdf matrix cookbook
+matrix cookbook http://faculty.bicmr.pku.edu.cn/~wenzw/bigdata/matrix-cook-book.pdf
 
 ## C Language/CXX
 
@@ -75,6 +103,12 @@ CMake 入门实战: https://www.hahack.com/codes/cmake/
 
 C语言内存分配及各种数据存储位置 https://blog.csdn.net/wzsalan/article/details/79594968
 
+mac下打开win上的c文件乱码解决 https://www.jianshu.com/p/59a450c5b8d4
+
+【C语言】文件操作 https://blog.csdn.net/qq_64893500/article/details/127228235
+
+C语言malloc()函数：动态分配内存空间 https://www.jianshu.com/p/341ad017fcea
+
 ## Python
 
 A Byte of Python: https://python.swaroopch.com
@@ -83,7 +117,9 @@ Python Documentation: https://www.python.org/doc/
 
 Python列表中remove()方法，您真的会用吗？: [Python列表中remove()方法，您真的会用吗？_python remove用法_何极光的博客-CSDN博客](https://blog.csdn.net/qq_44034384/article/details/107348512)
 
-https://github.com/jackfrued/Python-100-Days
+Python-100-Days https://github.com/jackfrued/Python-100-Days
+
+python *args 与 **kwargs https://zhuanlan.zhihu.com/p/371594496
 
 ## Java
 
@@ -100,6 +136,8 @@ Linux 环境搭建(如何获得一个免费云服务器)以及Linux基本指令:
 ## Git
 
 Git教程(快速上手，超详细) https://blog.csdn.net/weixin_48152652/article/details/124258293
+
+Learn Git Branching https://learngitbranching.js.org/?locale=zh_CN
 
 ## SYSTEM
 
