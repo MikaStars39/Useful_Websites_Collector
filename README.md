@@ -91,11 +91,21 @@ Git教程(快速上手，超详细) [Git教程(快速上手，超详细)_小蓝�
 
 Learn Git Branching [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
 
+解决fatal: unable to access https://zhuanlan.zhihu.com/p/369202416
+
+## Hardware/cuda
+
+NCCL基本介绍 https://blog.csdn.net/qq_43219379/article/details/123436895
+
 ## HTML/Javascript/CSS
 
 现代 JavaScript 教程: [https://zh.javascript.info](https://zh.javascript.info)
 
 mdn: [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
+
+## Huggingface
+
+使用HuggingFace的Transformers库的学习笔记 https://blog.csdn.net/weixin_41545780/article/details/107021523/
 
 ## Java
 
@@ -117,8 +127,6 @@ matrix cookbook http://faculty.bicmr.pku.edu.cn/~wenzw/bigdata/matrix-cook-book.
 
 ## Machine Learning
 
-Pytorch官方文档 📖 PyTorch documentation [PyTorch documentation &mdash; PyTorch 2.0 documentation](https://pytorch.org/docs/stable/index.html)
-
 Kaggle [https://www.kaggle.com](https://www.kaggle.com)
 
 [中英字幕]吴恩达机器学习系列课程_哔哩哔哩_bilibili https://www.bilibili.com/video/BV164411b7dx/
@@ -128,8 +136,6 @@ Kaggle [https://www.kaggle.com](https://www.kaggle.com)
 《PyTorch深度学习实践》完结合集_哔哩哔哩_bilibili 刘二大人 https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.337.search-card.all.click
 
 这个是⬆️刘二大人的课程代码 https://www.bilibili.com/video/BV1Y7411d7Ys?p=1&vd_source=43f8c3731b7d35924989fa2835a2315f
-
-PyTorch 深度学习实践_错错莫的博客-CSDN博客 [PyTorch 深度学习实践_错错莫的博客-CSDN博客](https://blog.csdn.net/bit452/category_10569531.html)
 
 实践性AI学习项目 [ailearning/2.md at master · apachecn/ailearning · GitHub](https://github.com/apachecn/ailearning/blob/master/docs/ml/2.md)
 
@@ -147,12 +153,6 @@ pooling层一些被遗忘的特性 [pooling层一些被遗忘的特性（锚点�
 
 从“卷积”、到“图像卷积操作”、再到“卷积神经网络”，“卷积”意义的3次改变 https://www.bilibili.com/video/BV1VV411478E/?from=search&seid=1725700777641154181&vd_source=43f8c3731b7d35924989fa2835a2315f
 
-Whats the difference between nn.relu() vs F.relu() https://discuss.pytorch.org/t/whats-the-difference-between-nn-relu-vs-f-relu/27599
-
-PyTorch 中文手册（pytorch handbook) https://handbook.pytorch.wiki/chapter1/3_neural_networks_tutorial.html
-
-Change the image size and range [pytorch - Change the image size and range - Stack Overflow](https://stackoverflow.com/questions/58606442/change-the-image-size-and-range)
-
 Illustrated Guide to Transformers Neural Network: A step by step explanation https://www.youtube.com/watch?v=4Bdc55j80l8
 
 Pytorch Transformers from Scratch (Attention is all you need) https://www.youtube.com/watch?v=U0s0f995w14
@@ -160,8 +160,6 @@ Pytorch Transformers from Scratch (Attention is all you need) https://www.youtub
 机器学习中的baseline [机器学习中的baseline_baseline 机器学习_努力の小熊的博客-CSDN博客](https://blog.csdn.net/weixin_46163097/article/details/123933649)
 
 scikit-learn实现|交叉验证 cross-validation 详解（5-Folds为例）| 分层采样 https://blog.csdn.net/SanyHo/article/details/105236945
-
-PyTorch的自动混合精度（AMP） https://zhuanlan.zhihu.com/p/408610877?utm_id=0
 
 关于KL散度（Kullback-Leibler Divergence）的笔记 https://zhuanlan.zhihu.com/p/438129018
 
@@ -197,6 +195,22 @@ SuperGLUE https://super.gluebenchmark.com
 
 A Survey of Large Language Models https://arxiv.org/pdf/2303.18223.pdf
 
+## PyTorch
+
+PyTorch 中文手册（pytorch handbook) https://handbook.pytorch.wiki/chapter1/3_neural_networks_tutorial.html
+
+Change the image size and range [pytorch - Change the image size and range - Stack Overflow](https://stackoverflow.com/questions/58606442/change-the-image-size-and-range)
+
+Pytorch官方文档 📖 PyTorch documentation [PyTorch documentation &mdash; PyTorch 2.0 documentation](https://pytorch.org/docs/stable/index.html)
+
+PyTorch 深度学习实践_错错莫的博客-CSDN博客 [PyTorch 深度学习实践_错错莫的博客-CSDN博客](https://blog.csdn.net/bit452/category_10569531.html)
+
+Whats the difference between nn.relu() vs F.relu() https://discuss.pytorch.org/t/whats-the-difference-between-nn-relu-vs-f-relu/27599
+
+PyTorch的自动混合精度（AMP） https://zhuanlan.zhihu.com/p/408610877?utm_id=0
+
+torch分布式训练 https://blog.csdn.net/bsegebr/article/details/126064694
+
 ## Python
 
 A Byte of Python: https://python.swaroopch.com
@@ -211,6 +225,14 @@ python *args 与 \**kwargs https://zhuanlan.zhihu.com/p/371594496
 
 Python 命令行参数解析库Argparse使用指南 https://zhuanlan.zhihu.com/p/508646581
 
+一文带你搞懂Python中pickle模块 https://zhuanlan.zhihu.com/p/419362785
+
+Python模块——shutil模块详解 https://www.cnblogs.com/ltkekeli1229/p/15709414.html
+
+Python标准库typing https://www.cnblogs.com/wuxianfeng023/p/16612610.html
+
+图解 Python 中深浅拷贝（copy）https://zhuanlan.zhihu.com/p/394184651
+
 ## SYSTEM
 
 详解计算机中的字、字节（Byte）、比特（bit）及它们之间的关系: https://zhuanlan.zhihu.com/p/422907374
@@ -224,3 +246,5 @@ C语言之内存模型以及动态内存分配: [C语言之内存模型以及动
 ## Tools
 
 Colab [https://colab.research.google.com](https://colab.research.google.com)
+
+diagrams https://app.diagrams.net
