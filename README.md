@@ -11,6 +11,22 @@ Human embryonic stem cells (hESC)  https://www.sciencedirect.com/topics/medicine
 
 使用K-mer估计基因组大小 https://zhuanlan.zhihu.com/p/365238904
 
+移码机制 https://baijiahao.baidu.com/s?id=1700087763332173913&wfr=spider&for=pc
+
+开放阅读框 https://baike.baidu.com/item/开放阅读框/4895450?fr=aladdin
+
+系统发育树 https://baike.baidu.com/item/系统发育树/2396985?fr=aladdin
+
+DNA 5. 基因组变异文件VCF格式详解 https://zhuanlan.zhihu.com/p/519356332?utm_id=0
+
+一文读懂 ChIPseq https://blog.csdn.net/u011262253/article/details/109957104
+
+「一些概念」关于启动子 https://baijiahao.baidu.com/s?id=1743812839009004597&wfr=spider&for=pc
+
+生物序列保守性 https://blog.csdn.net/qq_37774098/article/details/125141287
+
+EPDnew database https://epd.epfl.ch/EPDnew_select.php
+
 ## C Language/CXX
 
 C语言笔记---printf格式化输出: [C语言笔记---printf格式化输出_qin_rui_hua的博客-CSDN博客](https://blog.csdn.net/qin_rui_hua/article/details/77894812)
@@ -171,6 +187,14 @@ BERT从零详细解读，看不懂来打我 https://www.bilibili.com/video/BV1Ey
 
 MCC — 机器学习中优于F1-score和accuracy的一个性能评价指标 https://cloud.tencent.com/developer/beta/article/1975817
 
+降维方法之t-SNE https://zhuanlan.zhihu.com/p/426068503
+
+束搜索 https://blog.csdn.net/jerry_liufeng/article/details/122897502
+
+大白话AI | 图像生成模型DDPM | 扩散模型 | 生成模型 | 概率扩散去噪生成模型 https://www.bilibili.com/video/BV1tz4y1h7q1/?spm_id_from=333.337.search-card.all.click&vd_source=43f8c3731b7d35924989fa2835a2315f
+
+
+
 ## NLP
 
 西湖大学 张岳老师｜自然语言处理在线课程 https://www.bilibili.com/video/BV1r3411q74d/
@@ -211,6 +235,12 @@ PyTorch的自动混合精度（AMP） https://zhuanlan.zhihu.com/p/408610877?utm
 
 torch分布式训练 https://blog.csdn.net/bsegebr/article/details/126064694
 
+一文详解Pytorch中的优化器Optimizer https://blog.csdn.net/fengdu78/article/details/124521768
+
+A Comprehensive Tutorial to Pytorch DistributedDataParallel https://medium.com/codex/a-comprehensive-tutorial-to-pytorch-distributeddataparallel-1f4b42bb1b51
+
+
+
 ## Python
 
 A Byte of Python: https://python.swaroopch.com
@@ -248,3 +278,5 @@ C语言之内存模型以及动态内存分配: [C语言之内存模型以及动
 Colab [https://colab.research.google.com](https://colab.research.google.com)
 
 diagrams https://app.diagrams.net
+
+ZJU Mirror http://mirror.zju.edu.cn
