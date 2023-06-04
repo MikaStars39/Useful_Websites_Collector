@@ -27,6 +27,22 @@ DNA 5. 基因组变异文件VCF格式详解 https://zhuanlan.zhihu.com/p/5193563
 
 EPDnew database https://epd.epfl.ch/EPDnew_select.php
 
+ENCODE Uniform TFBS composite track http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeAwgTfbsUniform/
+
+[基因]支架（scaffold）https://baike.baidu.com/item/%5B基因%5D支架/56178479?fr=aladdin
+
+CHIP-seq原理和分析流程精讲 https://www.bilibili.com/video/BV1a8411a7kr/?spm_id_from=333.337.search-card.all.click&vd_source=43f8c3731b7d35924989fa2835a2315f
+
+生物信息学一非生信人如何看懂生信图合集1（1一16） https://www.bilibili.com/video/BV12Q4y1U7Pd/?p=16&vd_source=43f8c3731b7d35924989fa2835a2315f
+
+说了那么久的motif到底是什么 https://zhuanlan.zhihu.com/p/428416814
+
+alternative splicing 选择性剪接 https://baike.baidu.com/item/alternative%20splicing/8267300?fr=aladdin
+
+详解motif的PWM矩阵 https://blog.51cto.com/u_10721944/5398214
+
+生物信息学中的e-value和z-scores https://www.docin.com/p-350677620.html
+
 ## C Language/CXX
 
 C语言笔记---printf格式化输出: [C语言笔记---printf格式化输出_qin_rui_hua的博客-CSDN博客](https://blog.csdn.net/qin_rui_hua/article/details/77894812)
@@ -95,6 +111,8 @@ mac下打开win上的c文件乱码解决 [mac下打开win上的c文件乱码解�
 
 C语言malloc()函数：动态分配内存空间 [C语言malloc()函数：动态分配内存空间 - 简书](https://www.jianshu.com/p/341ad017fcea)
 
+C语言输入输出（左端对齐，右端对齐，对齐补零……）https://blog.csdn.net/m0_64782700/article/details/123153448
+
 # conda/pip
 
 conda安装GPU版pytorch，结果却是cpu版本[找到问题根源，从容解决] https://blog.csdn.net/u013468614/article/details/125910538
@@ -123,11 +141,15 @@ mdn: [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 
 使用HuggingFace的Transformers库的学习笔记 https://blog.csdn.net/weixin_41545780/article/details/107021523/
 
+Huggingface 超详细介绍 https://zhuanlan.zhihu.com/p/535100411
+
 ## Java
 
 ## Linux
 
 Linux 环境搭建(如何获得一个免费云服务器)以及Linux基本指令: [Linux 环境搭建(如何获得一个免费云服务器)以及Linux基本指令_免费linux服务器_Josvin的博客-CSDN博客](https://blog.csdn.net/weixin_45532227/article/details/107597778)
+
+集群Slurm使用教程 https://blog.csdn.net/pengru120/article/details/120868403
 
 ## Math
 
@@ -193,7 +215,9 @@ MCC — 机器学习中优于F1-score和accuracy的一个性能评价指标 http
 
 大白话AI | 图像生成模型DDPM | 扩散模型 | 生成模型 | 概率扩散去噪生成模型 https://www.bilibili.com/video/BV1tz4y1h7q1/?spm_id_from=333.337.search-card.all.click&vd_source=43f8c3731b7d35924989fa2835a2315f
 
+labml.ai Annotated PyTorch Paper Implementations https://nn.labml.ai/index.html
 
+Spiking Neural Network简述 https://zhuanlan.zhihu.com/p/260539428
 
 ## NLP
 
@@ -219,6 +243,16 @@ SuperGLUE https://super.gluebenchmark.com
 
 A Survey of Large Language Models https://arxiv.org/pdf/2303.18223.pdf
 
+NLP-语言模型及困惑度 https://zhuanlan.zhihu.com/p/119238064
+
+## Paper
+
+Scaling Transformer to 1M tokens and beyond with RMT https://www.youtube.com/watch?v=4Cclp6yPDuw
+
+RWKV: Reinventing RNNs for the Transformer Era (Paper Explained) https://www.youtube.com/watch?v=x8pW19wKfXQ
+
+短教程：《Transformers》；特邀讲师：邱锡鹏教授 https://www.bilibili.com/video/BV1sU4y1G7CN/?spm_id_from=333.880.my_history.page.click&vd_source=43f8c3731b7d35924989fa2835a2315f
+
 ## PyTorch
 
 PyTorch 中文手册（pytorch handbook) https://handbook.pytorch.wiki/chapter1/3_neural_networks_tutorial.html
@@ -239,7 +273,9 @@ torch分布式训练 https://blog.csdn.net/bsegebr/article/details/126064694
 
 A Comprehensive Tutorial to Pytorch DistributedDataParallel https://medium.com/codex/a-comprehensive-tutorial-to-pytorch-distributeddataparallel-1f4b42bb1b51
 
+可能95%的人还在犯的PyTorch错误 https://zhuanlan.zhihu.com/p/523239005
 
+sampler采样器记录 https://blog.csdn.net/caobin_cumt/article/details/127459117
 
 ## Python
 
@@ -262,6 +298,16 @@ Python模块——shutil模块详解 https://www.cnblogs.com/ltkekeli1229/p/1570
 Python标准库typing https://www.cnblogs.com/wuxianfeng023/p/16612610.html
 
 图解 Python 中深浅拷贝（copy）https://zhuanlan.zhihu.com/p/394184651
+
+Python之多进程-Pool进程池 https://www.bilibili.com/video/BV1FP4y1t7zv/?spm_id_from=333.337.search-card.all.click&vd_source=43f8c3731b7d35924989fa2835a2315f
+
+多进程及多线程的区别 https://blog.csdn.net/weixin_49786076/article/details/113005497
+
+io.UnsupportedOperation: not writable的解决办法 https://blog.csdn.net/qq_44654974/article/details/108052940
+
+Python内置函数之enumerate() 函数 https://www.cnblogs.com/yifchan/p/python-1-40.html
+
+python库tqdm是什么以及怎么用tqdm、trange和tqdm.notebook https://blog.csdn.net/qq_43391414/article/details/121981491
 
 ## SYSTEM
 
